@@ -1,0 +1,195 @@
+.detail {
+    overflow: hidden;
+}
+.detail__top {
+    height: 350px;
+    width: 100%;
+    overflow: hidden;
+}
+.detail__img {
+    height: 200px;
+    width: 100%;
+}
+.detail__img img {
+    width: 100%;
+    height: 100%;
+}
+.detail__message {
+    width: 90%;
+    height: 200px;
+    font-size: 14px;
+    margin: 8px auto 8px auto;
+}
+
+.detail__messageTag {
+    float: right;
+    font-family: 微软雅黑;
+}
+
+.detail__messageTitle {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 华文仿宋;
+    margin-bottom: 5px;
+}
+
+.detail__messageMain__moneyLeft {
+    font-family: 仿宋;
+    font-weight: bold;
+}
+
+.detail__messageMain__moneyRight {
+    font-family: 仿宋;
+    font-weight: bold;
+    color: red;
+}
+
+.detail__messageMain__introduce {
+    font-family: 仿宋;
+    margin: 13px 0;
+    color: #6d6d6d;
+}
+.detail__bottom {
+    width: 90%;
+    font-size: 14px;
+    margin: 8px auto 8px auto;
+    overflow: hidden;
+}
+.detail__bottomBar {
+    height: 30px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.detail__bottomBar__left {
+    display: inline-block;
+    border-bottom: 4px solid #efc207;
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+.detail__bottomBar__right {
+    display: inline-block;
+    border-bottom: 4px solid #bebebe;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.detail__bottomMassage {
+    height: 150px;
+    width: 100%;
+    text-align: center;
+}
+.detail__bottomMassage__item {
+    width: 33%;
+    float: left;
+    height: 60px;
+    padding-top: 10px;
+}
+
+.detail__bottomMassage__item .active {
+    color: #e40000;
+}
+
+.detail__bottomMassage__itemTitle {
+    display: block;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    color: #111111;
+    font-size: 16px;
+    font-family: 微软雅黑;
+}
+
+.detail__bottomMassage__itemMain {
+    font-size: 12px;
+    color: #9c9c9c;
+    text-align: center;
+}
+.detail__bottomNotice__title {
+    margin: 10px auto;
+    height: 20px;
+    width: 100%;
+    font-size: 13px;
+    color: red;
+    text-align: center;
+    font-family: 微软雅黑;
+    font-weight: bold;
+}
+
+.detail__bottomNotice__item {
+    width: 25%;
+    float: left;
+    height: 60px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.detail__bottomNotice__itemTitle {
+    display: block;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    color: #111111;
+    font-size: 16px;
+    font-family: 微软雅黑;
+}
+
+.detail__bottomNotice__itemBottom {
+    font-size: 12px;
+    color: #9c9c9c;
+    text-align: center;
+}
+
+
+.detail__bottomComplete__item {
+    width: 33%;
+    float: left;
+    height: 60px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.detail__bottomComplete__itemTitle {
+    display: block;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    color: #111111;
+    font-size: 16px;
+    font-family: 微软雅黑;
+}
+
+.detail__bottomComplete__itemBottom {
+    font-size: 12px;
+    color: #9c9c9c;
+    text-align: center;
+}
+
+.detail__agreement {
+    border-top: 2px solid #c9c9c9;
+    padding: 20px 0;
+}
+
+.detail__agreement__span {
+    float: right;
+    color: deepskyblue;
+    font-size: 14px;
+    font-family: 华文楷体;
+    font-weight: bold;
+}
+
+.detail__agreement__title {
+    font-size: 13px;
+    font-family: 仿宋;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #9c9c9c;
+}
+
+.detail__agreement__bottom {
+    font-weight: bold;
+    font-size: 13px;
+    font-family: 仿宋;
+    color: #9c9c9c;
+}

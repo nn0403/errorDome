@@ -1,0 +1,134 @@
+.detail__programmeDetail {
+    width: 100%;
+    height: 70px;
+    border-bottom: 1px solid #d0d0d0;
+}
+
+.detail__programmeDetailItem {
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+
+.detail__programmeDetailItem__top {
+    display: block;
+    height: 35px;
+    line-height: 35px;
+    font-size: 18px;
+    padding-top: 10px;
+    color: #e20000;
+    font-weight: bold;
+}
+.detail__programmeDetailItem__top .small {
+    font-size: 13px;
+}
+
+.detail__programmeDetailItem__bottom {
+    font-size: 13px;
+    color: #878787;
+}
+.detail__programmeNumber {
+    height: 40px;
+    text-align: center;
+}
+.detail__programmeNumberItem {
+    width: 40%;
+    float: left;
+    height: 100%;
+    line-height: 40px;
+    font-size: 13px;
+    color: #878787;
+}
+.detail__programmeNumberItem img {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    margin-right: 4px;
+    top: 3px;
+}
+
+.detail__programmeMessage {
+    width: 90%;
+    margin: 10px auto 20px auto;
+    font-size: 13px;
+    color: #878787;
+}
+.detail__programmeCalculation {
+    width: 20%;
+    float: right;
+}
+.detail__programmeCalculation .reduce {
+    border: 1px solid #000000;
+    font-size: 16px;
+    padding: 0 5px 0 5px;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+}
+.detail__programmeCalculation .number {
+    border: 1px solid #000000;
+    font-size: 16px;
+    padding: 0 5px 0 5px;
+}
+.detail__programmeCalculation .add {
+    border: 1px solid #000000;
+    font-size: 16px;
+    padding: 0 5px 0 5px;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.detail__programmeTag {
+    border-bottom: 340px solid #9c9c9c;
+    opacity: .2;
+    text-indent: 2rem;
+    height: 40px;
+    line-height: 40px;
+    width: 100%;
+    margin: 50px auto 0 auto;
+    font-size: 13px;
+    background: rgba(236, 231, 24, 0.8);
+    color: #000000;
+}
+.detail__people {
+    width: 90%;
+    margin: 20px auto 0 auto;
+    border-bottom: 80px solid #ffffff;
+}
+
+.detail__peopleTitle{
+    font-size: 17px;
+    font-weight: bold;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #9c9c9c;
+}
+
+.detail__peopleItem {
+    height: 60px;
+    border-bottom: 1px solid #9c9c9c;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.detail__peopleItem__left {
+    display: block;
+    float: left;
+}
+.detail__peopleItem__leftPhone {
+    font-size: 19px;
+    display: block;
+    height: 30px;
+    line-height: 30px;
+}
+
+.detail__peopleItem__leftTime {
+    color: #9c9c9c;
+}
+
+.detail__peopleItem__right {
+    display: block;
+    float: right;
+    height: 45px;
+    line-height: 45px;
+    font-size: 18px;
+    padding-right: 10px;
+}
+

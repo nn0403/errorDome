@@ -1,0 +1,38 @@
+{
+    "id": "o-3",
+    "statusText": "筹集中",
+    "orderPicUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558661148197&di=3071686bf08aafdca17c6945c72f1a1e&imgtype=0&src=http%3A%2F%2Ffile09.zk71.com%2FFile%2FCorpProductImages%2F2015%2F04%2F02%2F0_xianggangdade_3615_20150402205602.jpg",
+    "title": "茅台酒",
+    "msg": "融资信息仅对合格投资人开放",
+    "time": null,
+    "money": 1500,
+    "Number": 2467,
+    "type": 2,
+    "targetAmount": 8000,
+    "endTime":"8-31",
+    "currentAmount": 2000,
+    "Profit": 10,
+    "projectTime": 365,
+    "description": "想不明白，都什么年代了，还相信这些算卦 先生大白天说瞎话，还心甘情愿地被他们骗取钱财， 被骗了还要说感谢他们，真是不可理喻。如果静下心来想 一想，做一个逆向推理，事情就很明白了。试想：这些算卦先 生如果真的有先天之明的神功，能预知未来吉凶，那么这些人就应 该是世界上最富有生活最幸福的人，因为他们既能通过他人 的生辰八字预测他人未来的吉凶，他们就更有能力预知自己未 来的吉凶，能知道自己未来哪一天走好运发大财，未来哪一天有灾 祸，只要在家测算好了，就可以趋利避害，凭借他们的神功而不 需要付出任何劳动代价就可以轻松享受好运带来的幸福。事实上， 从古至今，还从没听说过某位算卦先生靠算卦成就了大业，发了大",
+    "surplusTime": 20,
+    "user" :[
+        {
+            "phone": "153****7890",
+            "id": "U-1",
+            "userMoney": 50000,
+            "userTime": "2018.01.15 10:00"
+        },
+        {
+            "phone": "153****4577",
+            "id": "U-2",
+            "userMoney": 30000,
+            "userTime": "2018.11.15 23:00"
+        },
+        {
+            "phone": "153****1479",
+            "id": "U-3",
+            "userMoney": 20000,
+            "userTime": "2018.07.15 9:00"
+        }
+    ]
+}

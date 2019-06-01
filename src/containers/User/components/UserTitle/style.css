@@ -1,0 +1,105 @@
+.userTitle {
+    width: 100%;
+    height: 275px;
+    overflow: hidden;
+    border-bottom: 13px solid #e9e9e9;
+}
+.userTitle__top {
+    height: 195px;
+    background: #353535;
+}
+.userTitle__title {
+    text-align: center;
+    color: #f0f0f0;
+    padding: 15px 0 0 0;
+}
+.UserTitle__main {
+    display: block;
+    width: 100%;
+    height: 160px;
+}
+.UserTitle__mainPic {
+    width: 35%;
+    float: left;
+    height: 100%;
+}
+.UserTitle__mainPic img {
+    width: 70%;
+    height: 90px;
+    border-radius:50% ;
+    margin: 30px 15px;
+}
+.UserTitle__mainMsg {
+    width: 65%;
+    float: right;
+}
+.UserTitle__mainMsg__main {
+    float: left;
+    padding-top:50px;
+
+}
+.UserTitle__mainMsg__name {
+    font-size: 20px;
+    color: #ededed;
+    display: block;
+}
+.UserTitle__mainMsg__state {
+    font-size: 13px;
+    text-align: center;
+    display: block;
+    color: #ededed;
+    border-radius: 15px;
+    background: #efc207;
+    margin: 10px 0;
+    padding: 2px 0;
+}
+.UserTitle__mainRight {
+    color: #ededed;
+    float: right;
+    font-size: 30px;
+    padding-top: 65px;
+    padding-right: 20px;
+}
+.UserTitle__mainRight img {
+    width: 20px;
+    height: 20px;
+}
+.userTitle__topBottom {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.userTitle__topBottom__item {
+    flex: 1;
+    height: 100%;
+    text-align: center;
+    padding-top: 10px;
+}
+.userTitle__topBottom__itemTop {
+    display: block;
+    font-size: 20px;
+    color: #353535;
+}
+.userTitle__topBottom__itemBottom {
+    display: block;
+    font-size: 13px;
+    color: #959595;
+    margin-top: 3px;
+}
+.userTitle__active {
+    color: #ec0000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

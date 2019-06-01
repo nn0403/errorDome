@@ -1,0 +1,15 @@
+.loginBottom {
+    width: 86%;
+    margin: 10px auto 0 auto;
+    font-size: 14px;
+}
+.loginBottom__retrieve{
+    color: #878787;
+    display: block;
+    float: left;
+}
+.loginBottom__register{
+    color: #878787;
+    display: block;
+    float: right;
+}

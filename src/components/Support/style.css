@@ -1,0 +1,35 @@
+.Support {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    border-top: 10px solid #ededed;
+    z-index: 2;
+}
+.Support__left {
+    width: 40%;
+    float: left;
+    line-height: 60px;
+    text-align: center;
+    background: #ffffff;
+}
+
+.Support__left img {
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+    position: relative;
+    top: 5px;
+}
+
+.Support__right {
+    width: 60%;
+    float: right;
+    line-height: 60px;
+    text-align: center;
+    background: #efc207;
+    color: #111111;
+}
+.SupportActive {
+    background: #bdbdbd;
+}
